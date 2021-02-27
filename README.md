@@ -1,7 +1,8 @@
 # Apex-Automation-Testing
-Automation testing on the ecommerce website of Apex Footwear Limited
+Automation testing on the ecommerce website of Apex Footwear Limited 
+Using Selenium, Maven Repository and TestNG Annotations
 
-Test cases covered-
+Test cases covered
 -Registration
 -Validate registration
 -Login
